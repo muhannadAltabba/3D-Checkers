@@ -6,5 +6,5 @@
   <li>I also added a pause menu that includes (help, restart, save, etc.).</li>
   <li>Finally, I added some simple animation Glowing Flying Dust to make the interface more attractive.</li>
 </ul>
-Mirroring repository for the project in Gitlab: ![checkers-server](https://gitlab.com/Nitro963/checkers-server) [checkers-client](https://gitlab.com/Nitro963/checkers-cs-client)
+Mirroring repository for the project in Gitlab: [checkers-server](https://gitlab.com/Nitro963/checkers-server) [checkers-client](https://gitlab.com/Nitro963/checkers-cs-client)
 ![alt text](/img/)
