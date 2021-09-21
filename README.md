@@ -9,4 +9,6 @@ Mirroring repository for the project in Gitlab: [checkers-server](https://gitlab
   <li>Finally, I added some simple animation Glowing Flying Dust to make the interface more attractive.</li>
 </ul>
 
+![alt text](/img/)
+
 
